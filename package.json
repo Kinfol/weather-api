@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "require": "2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinfol/weather-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kinfol/weather-api/issues"
+  },
+  "homepage": "https://github.com/Kinfol/weather-api#readme"
+}
